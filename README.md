@@ -1,5 +1,3 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)]
-
 <!--
 **LijunTong/LijunTong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
